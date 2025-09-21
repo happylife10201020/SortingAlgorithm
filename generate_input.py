@@ -1,7 +1,7 @@
 import random
 
 # --- 설정값 ---
-LENGTH = 10000
+LENGTH = random.randint(0, 1000)
 FILENAME = "input.txt"
 
 # --- 파일 생성 함수 ---
