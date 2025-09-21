@@ -12,7 +12,7 @@
 using namespace std ;
 
 #define DEBUG 0
-#define MERGE_INSERTION_NUM 5
+#define MERGE_INSERTION_NUM 15
 
 class SortArray {
 public:
