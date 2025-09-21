@@ -5,7 +5,7 @@ from colorama import init, Fore, Style
 
 init(autoreset=True)
 
-NUM_ITERATIONS = 100000
+NUM_ITERATIONS = 100000_000
 success_count = 0
 fail_count = 0
 failed_inputs = []
