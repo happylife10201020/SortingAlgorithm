@@ -55,4 +55,8 @@ sudo python auto_test.py
 
 ### **실행 이미지**
 
-![img_1.png](img_1.png)![img.png](img.png)
+![img_1.png](img_1.png)
+
+---
+### **참고사항**
+> - 일부 Python 스크립트는 생성형 AI의 도움을 받아 개발되었으며, 반복 테스트 및 데이터 생성 로직을 자동화하는 데 활용되었습니다.
