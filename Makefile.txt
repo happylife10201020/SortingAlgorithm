@@ -1,0 +1,10 @@
+all: compile run
+
+compile: main.cpp
+	g++ main.cpp -o sorting
+
+run: sorting
+	./sorting
+
+clean:
+	rm sorting
